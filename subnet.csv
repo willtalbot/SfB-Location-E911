@@ -1,0 +1,2 @@
+Location,Subnet, ELIN,House_Number,Street_Name,Street_Suffix,Post_Directional,City,State,ZIP_Code,Country
+London,192.168.0.0,123-123-1234,1000,Pall Mall,ST,W1,London,Lon,W1,UK

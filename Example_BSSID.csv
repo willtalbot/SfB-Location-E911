@@ -1,0 +1,2 @@
+Radio,AP_Name,Site_Name,Site_Description,WLAN_ID,Interface,BSSID, ELIN,Location,House_Number,Street_Name,Street_Suffix,Post_Directional,City,State,ZIP_Code,Country
+802.11a,LON-AP-FL1-01,London,1000,20,VlanLon1000,00-00-00-00-00-00,"123-123-1234,987-987-9876",Bldg 1000,1000,Pall Mall,ST,W1,London,LON,W1,UK
